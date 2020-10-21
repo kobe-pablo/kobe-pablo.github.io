@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{385:function(t,n,e){"use strict";e.r(n);var l={name:"Result",layout:"rlayout"},o=e(41),r=e(39),c=e.n(r),w=e(359),component=Object(o.a)(l,(function(){var t=this.$createElement,n=this._self._c||t;return n("v-app",[n("h1",[this._v("制作中です。")])])}),[],!1,null,null,null);n.default=component.exports;c()(component,{VApp:w.a})}}]);
